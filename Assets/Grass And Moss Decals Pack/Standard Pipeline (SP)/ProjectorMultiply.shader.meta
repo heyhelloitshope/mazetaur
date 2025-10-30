@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f304ec32bbd2348489f920ebf3f92ff8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295234
+  packageName: Grass and Moss Decals Pack
+  packageVersion: 1.0
+  assetPath: Assets/Grass And Moss Decals Pack/Standard Pipeline (SP)/ProjectorMultiply.shader
+  uploadId: 700981
