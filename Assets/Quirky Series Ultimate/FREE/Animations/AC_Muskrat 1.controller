@@ -507,7 +507,7 @@ AnimatorController:
   m_Name: AC_Muskrat 1
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: AImovement
+  - m_Name: AIMovement
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -588,7 +588,7 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: AImovement
     m_Mirror: 0
-  m_BlendParameter: AImovement
+  m_BlendParameter: AIMovement
   m_BlendParameterY: AImovement
   m_MinThreshold: 0
   m_MaxThreshold: 1
